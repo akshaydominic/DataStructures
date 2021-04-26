@@ -2,12 +2,11 @@
 public class Reversestring{
     public static void main(String[] args){
         String str="apple";
-        
-        String[] temp = str.split("");
-        String reverse="";
-        for(String c :temp){
+        String reverse ="";
+        char[] temp = str.toCharArray();
+        for(char c:temp){
             reverse = c+reverse;
         }
-        System.out.println("Result :"+reverse);
+        System.out.println("Result "+reverse);
     }
 }
