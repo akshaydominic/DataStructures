@@ -4,6 +4,7 @@
         "Palindrome",
         "Maxchars_HasMap",
         "Maxchars",
-        "Fizzbuzz"
+        "Fizzbuzz",
+        "ChunkArray"
     ]
 }

@@ -1,6 +1,6 @@
 
 import java.util.*;
-import java.util.Map.Entry;
+
 public class Maxchars {
     public static void main(String[] args) {
         String input="Hello There!";
