@@ -6,6 +6,7 @@
         "Maxchars",
         "Fizzbuzz",
         "ChunkArray",
-        "Anagrams"
+        "Anagrams",
+        "Capitalize"
     ]
 }
