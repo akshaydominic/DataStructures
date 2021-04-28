@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "ReverseInteger",
         "Palindrome",
+        "Maxchars_HasMap",
         "Maxchars",
-        "Maxchars_HasMap"
+        "Fizzbuzz"
     ]
 }
