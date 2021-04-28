@@ -5,6 +5,7 @@
         "Maxchars_HasMap",
         "Maxchars",
         "Fizzbuzz",
-        "ChunkArray"
+        "ChunkArray",
+        "Anagrams"
     ]
 }
