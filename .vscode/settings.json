@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "Steps",
         "ReverseInteger",
         "Palindrome",
         "Maxchars_HasMap",
@@ -8,6 +9,6 @@
         "ChunkArray",
         "Capitalize",
         "Anagrams",
-        "Steps"
+        "Pyramid"
     ]
 }
