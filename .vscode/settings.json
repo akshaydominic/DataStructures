@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "String_challenge(ipv4)",
         "Steps",
         "ReverseInteger",
         "Pyramid",
@@ -9,6 +10,6 @@
         "ChunkArray",
         "Capitalize",
         "Anagrams",
-        "String_challenge(ipv4)"
+        "Java8"
     ]
 }
