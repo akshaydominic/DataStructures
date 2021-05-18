@@ -21,7 +21,7 @@ class string{
         ArrayList<String> solution= new ArrayList<>();
         String temp="";
         for(int i=0;i<s.length();i++){
-            for(int j=0;j<s.length();j++){
+            for(int j=0;j<i;j++){
                 if(i==j && j+1<s.length()){
                     temp=s.substring(j,j+2);
 
