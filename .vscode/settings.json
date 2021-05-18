@@ -2,13 +2,13 @@
     "java.project.sourcePaths": [
         "Steps",
         "ReverseInteger",
+        "Pyramid",
         "Palindrome",
         "Maxchars_HasMap",
-        "Maxchars",
         "Fizzbuzz",
         "ChunkArray",
         "Capitalize",
         "Anagrams",
-        "Pyramid"
+        "String_challenge(ipv4)"
     ]
 }
