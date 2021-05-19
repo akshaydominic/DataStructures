@@ -14,8 +14,10 @@ public class StreamEg{
         );
 
         people.stream()
-        .filter(p->p.getLastName().startsWith("A"))
-        .forEach(p->System.out.println(p.getFirstName()));
+        .limit(3)
+        .forEach(System.out::println);
+
+        
 
     }
 }
