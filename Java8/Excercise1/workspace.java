@@ -8,7 +8,7 @@ class workspace{
     //Find duplicates element in array
 	//input : [2,3,1,3,4,1,5,1,2]
     //got:[231301012],[2313112][231311]
-    //solutionn array:[2,3,1][2,3,1,1]
+    //solutionn array:[2,3,1]
     public static void main(String[] args) {
         int[] inputarray= new int[]{2,3,1,3,4,1,5,1,2,3};
         List<Integer> results= findduplicates(inputarray);
