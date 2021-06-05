@@ -17,7 +17,7 @@ class workspace{
     }
     private static void printarrayList(List<Integer> results) {
         for(int i: results){
-            System.out.println(i);
+            System.out.print(i);
         }
     }
     public static List<Integer> findduplicates(int[] duplicatearray){
@@ -32,6 +32,7 @@ class workspace{
             }  
         }
         return solutions;
+        
     }
     public static boolean linearSearchlist(List<Integer> sol,int searchelement){
         
@@ -42,4 +43,5 @@ class workspace{
         }
         return false; 
     }
+    
 }
